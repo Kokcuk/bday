@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.002f6869.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/jpeg": "/static/media/45dbb0725fe78ce1874ece5faf94b38c.0764ecaabe1d0957a9e9.jpeg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.002f6869.js.map": "/static/js/main.002f6869.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/bday/static/css/main.073c9b0a.css",
+    "main.js": "/bday/static/js/main.7223718d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bday/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jpeg": "/bday/static/media/45dbb0725fe78ce1874ece5faf94b38c.0764ecaabe1d0957a9e9.jpeg",
+    "static/media/logo.svg": "/bday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bday/index.html",
+    "main.073c9b0a.css.map": "/bday/static/css/main.073c9b0a.css.map",
+    "main.7223718d.js.map": "/bday/static/js/main.7223718d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bday/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.002f6869.js"
+    "static/js/main.7223718d.js"
   ]
 }
